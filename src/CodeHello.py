@@ -8,5 +8,5 @@ class HelloPython:
 		return 'hello, how are you Mr/Ms. '+ name ;
 
 x = HelloPython();
-
+print  x.func1();
 
