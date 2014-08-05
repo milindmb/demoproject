@@ -5,7 +5,7 @@ class HelloPython:
 		return 'hello world';
 
 	def func2(self, name):
-		return 'hello, how are you Mr. '+ name ;
+		return 'hello, how are you Mr/Ms. '+ name ;
 
 x = HelloPython();
 
